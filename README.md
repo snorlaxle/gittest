@@ -1,2 +1,2 @@
-Hello World
-Another line
+Totally rewritten
+from scratch
